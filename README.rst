@@ -17,7 +17,7 @@ Home Page & Repository
 
 - Home Page: http://pypi.python.org/pypi/keres/
 - Repository: https://github.com/jcstroud/keres.git
-- Documentation: http://pythonhosted.org/radialx/
+- Documentation: http://pythonhosted.org/keres/
 
 
 Example
