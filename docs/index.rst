@@ -7,8 +7,9 @@ Keres Documentation
 *Keres* is the testing suite for a Bayes filter useful for
 amyloid fibrillogenesis fluorimetry data.
 
-The most complete documentation will be available at
-http://pythonhosted.org/keres/.
+The keres homepage is at <https://pypi.python.org/pypi/keres/> and
+the most complete documentation is available at
+<http://pythonhosted.org/keres/>.
 
 
 Fibrillogenesis

@@ -20,7 +20,7 @@ setup(name = info['PACKAGE'],
       package_data = {'':[os.path.join('*', '*.*')]},
       include_package_data = True,
       install_requires = ['phyles', 'pygmyplot', 'numpy', 'rpy2',
-                          'scipy', 'configobj', 'radialx',
+                          'scipy', 'configobj', 'radialx'],
       # test_suite = info['PACKAGE'] + '.tests.test_suite',
       classifiers = [
             'Programming Language :: Python :: 2.6',
