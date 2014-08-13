@@ -15,8 +15,9 @@ The test suite requires the `copasi simulator`_.
 Home Page & Repository
 ----------------------
 
-- Home Page: http://pypi.python.org/pypi/keres
+- Home Page: http://pypi.python.org/pypi/keres/
 - Repository: https://github.com/jcstroud/keres.git
+- Documentation: http://pythonhosted.org/radialx/
 
 
 Example
