@@ -22,7 +22,7 @@ protein exists in a fiber-free form. After some time, the
 protein starts to form fibers in a rapidly accelerating
 reaction that eventually converts all of the protein to fibers.
 
-The moment at which the first fiber appears is the point of
+The moment at which the first fibers are detected is the point of
 transition from the "lag phase" of no fibers to the "signal
 phase" where fibers are present. The "signal phase" gets its
 name from the fact that the fibers produce signal

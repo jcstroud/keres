@@ -1,6 +1,6 @@
 License agreement for
 
-     keres 0.8.4
+     keres 0.8.5
 
 1. This LICENSE AGREEMENT is between James C. Stroud,
 and the Individual or Organization ("Licensee") accessing and
